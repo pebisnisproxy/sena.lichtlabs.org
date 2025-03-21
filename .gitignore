@@ -1,3 +1,4 @@
 # deps
 node_modules/
 sena-lichtlabs-org
+*.bun-build
